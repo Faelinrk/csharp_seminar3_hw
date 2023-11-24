@@ -1,0 +1,14 @@
+C:\Users\Anastasia\Desktop\seminar3\hw3\obj\Debug\net7.0\hw3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasia\Desktop\seminar3\hw3\obj\Debug\net7.0\hw3.AssemblyInfoInputs.cache
+C:\Users\Anastasia\Desktop\seminar3\hw3\obj\Debug\net7.0\hw3.AssemblyInfo.cs
+C:\Users\Anastasia\Desktop\seminar3\hw3\obj\Debug\net7.0\hw3.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\Desktop\seminar3\hw3\bin\Debug\net7.0\hw3.exe
+C:\Users\Anastasia\Desktop\seminar3\hw3\bin\Debug\net7.0\hw3.deps.json
+C:\Users\Anastasia\Desktop\seminar3\hw3\bin\Debug\net7.0\hw3.runtimeconfig.json
+C:\Users\Anastasia\Desktop\seminar3\hw3\bin\Debug\net7.0\hw3.dll
+C:\Users\Anastasia\Desktop\seminar3\hw3\bin\Debug\net7.0\hw3.pdb
+C:\Users\Anastasia\Desktop\seminar3\hw3\obj\Debug\net7.0\hw3.dll
+C:\Users\Anastasia\Desktop\seminar3\hw3\obj\Debug\net7.0\refint\hw3.dll
+C:\Users\Anastasia\Desktop\seminar3\hw3\obj\Debug\net7.0\hw3.pdb
+C:\Users\Anastasia\Desktop\seminar3\hw3\obj\Debug\net7.0\hw3.genruntimeconfig.cache
+C:\Users\Anastasia\Desktop\seminar3\hw3\obj\Debug\net7.0\ref\hw3.dll

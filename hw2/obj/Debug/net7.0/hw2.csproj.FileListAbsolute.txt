@@ -1,0 +1,14 @@
+C:\Users\Anastasia\Desktop\seminar3\hw2\bin\Debug\net7.0\hw2.exe
+C:\Users\Anastasia\Desktop\seminar3\hw2\bin\Debug\net7.0\hw2.deps.json
+C:\Users\Anastasia\Desktop\seminar3\hw2\bin\Debug\net7.0\hw2.runtimeconfig.json
+C:\Users\Anastasia\Desktop\seminar3\hw2\bin\Debug\net7.0\hw2.dll
+C:\Users\Anastasia\Desktop\seminar3\hw2\bin\Debug\net7.0\hw2.pdb
+C:\Users\Anastasia\Desktop\seminar3\hw2\obj\Debug\net7.0\hw2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasia\Desktop\seminar3\hw2\obj\Debug\net7.0\hw2.AssemblyInfoInputs.cache
+C:\Users\Anastasia\Desktop\seminar3\hw2\obj\Debug\net7.0\hw2.AssemblyInfo.cs
+C:\Users\Anastasia\Desktop\seminar3\hw2\obj\Debug\net7.0\hw2.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\Desktop\seminar3\hw2\obj\Debug\net7.0\hw2.dll
+C:\Users\Anastasia\Desktop\seminar3\hw2\obj\Debug\net7.0\refint\hw2.dll
+C:\Users\Anastasia\Desktop\seminar3\hw2\obj\Debug\net7.0\hw2.pdb
+C:\Users\Anastasia\Desktop\seminar3\hw2\obj\Debug\net7.0\hw2.genruntimeconfig.cache
+C:\Users\Anastasia\Desktop\seminar3\hw2\obj\Debug\net7.0\ref\hw2.dll
